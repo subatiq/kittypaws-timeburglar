@@ -18,6 +18,6 @@ plugins:
     interval: PT60S
 ```
 
-`target` - container in which disconnection should be simulated\
-`ip` - which address to disconnect\
-`unavailable_seconds` - amount of time the `ip` will be unavailable for the `target`
+`shift` - amount of seconds to shift time on the host for\
+
+The rest is described in [kittypaws](https://github.com/subatiq/kittypaws) README.
