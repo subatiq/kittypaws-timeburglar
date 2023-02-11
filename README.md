@@ -18,6 +18,6 @@ plugins:
     interval: PT60S
 ```
 
-`shift` - amount of seconds to shift time on the host for\
+`shift` - amount of seconds to shift time on the host for
 
 The rest is described in [kittypaws](https://github.com/subatiq/kittypaws) README.
